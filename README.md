@@ -107,3 +107,5 @@ The utility adheres strictly to standard memory containment practices:
 
     This defensive coding design ensures that memory leaks are impossible, even if the user runs millions of hashes consecutively inside a single execution instance.
     """
+TESTED ON FEDORA WORKSTATION 44. CONTACT ME IF IT BREAKS ON OTHER SYSTEMS
+error40404.github@gmail.com
